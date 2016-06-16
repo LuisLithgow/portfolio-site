@@ -46,6 +46,9 @@ a{
   padding: 90px 100px;
   margin-top: 40px;
 }
+hr{
+  border:solid #9e9e9e 1px;
+}
 a> img {
   width: 270px;
   height: 250px;
