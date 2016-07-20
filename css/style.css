@@ -7,7 +7,9 @@
 -webkit-margin-end: 0;
 -webkit-padding-start: 0;
 }*/
-
+body {
+  color:#F1FAEE;
+}
 h1 {
   padding-top: 30px;
   text-align:center;
@@ -19,7 +21,8 @@ h3  {
 }
 
 header {
-  background: #9d4545;
+  /*background: #9d4545;*/
+  background: rgba(69, 81, 157, 0.28);
   margin: -35px -15px;
   /*height: 100%;*/
   color: #F1FAEE;
@@ -70,7 +73,8 @@ a> img {
 }
 
 footer {
-  background: #9d4545;
+  /*background: #9d4545;*/
+  background: rgba(69, 81, 157, 0.28);
   color: #F1FAEE;
   margin: 30px -15px 0 -15px;
   padding: 40px;
