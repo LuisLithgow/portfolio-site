@@ -172,6 +172,13 @@ section.module.parallax-3 {
   }
 }
 
+.img-rounded {
+  border-radius: 450px;
+  /*margin-top: -8%;*/
+  height: 350px;
+  width: 350px;
+}
+
 
 
 
